@@ -1,1 +1,1 @@
-# crypto-trading-game
+# crypto-trading-client
